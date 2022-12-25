@@ -15,4 +15,7 @@ Financial Stability - makiing and selling something
 
 where
 
-**Q** **quantity** sold per unit time (e.g, openers/year)
+**Q** **quantity** sold per unit time (e.g., openers/year)
+**p** **price** per unit (e.g., 50 USD/opener)
+**c** **cost** per unit (e.g., 20 USD/opener)
+**F** **fixed cost** to operate the business per unit time (e.g., 400,000 USD/year) -rent,advertising,salaries,etc.
