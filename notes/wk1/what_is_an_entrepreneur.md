@@ -17,5 +17,5 @@ where
 
 **Q** **quantity** sold per unit time (e.g., openers/year) <br/>
 **p** **price** per unit (e.g., 50 USD/opener)<br/>
-**c** **cost** per unit (e.g., 20 USD/opener)<br/>>
+**c** **cost** per unit (e.g., 20 USD/opener)<br/>
 **F** **fixed cost** to operate the business per unit time (e.g., 400,000 USD/year) <br/> -rent,advertising,salaries,etc.
