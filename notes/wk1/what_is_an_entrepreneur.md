@@ -2,7 +2,7 @@
 
 Creation and Management of a *new* enterprise to accomplish some objective.
 
-For most entrepreneurship is not just about financial stability but another objective as well
+For most entrepreneurship is not just about financial stability but another objective as well the primary objective while financial stability is the secondary objective.
 
 ### Two Conditions That Define Financial Stability ###
 
@@ -30,9 +30,9 @@ Financial Stability - on-going services
 where
 
 **LTV** average customer **lifetime value** (e.g., 5000 USD/customer) <br/>
-- churn rate
-- service fees per unit time
-- duration of engagement
-- additional services adopted
+- churn rate: what fraction of customers do you lose every month
+- service fees per unit time: how much the service cost per month/year
+- duration of engagement: How long does the average customer stay with the company
+- additional services adopted: total value of services
 
 **CAC** **customer acquisition cost** (e.g., 3000 USD/customer) <br/>
